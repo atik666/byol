@@ -1,0 +1,5 @@
+data/*
+model_state/*
+lightning_logs/*
+byol_cifar10.ipynb
+
